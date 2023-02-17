@@ -1,8 +1,9 @@
 float trainx;
 void DrawTrain(){
-  rect(a,535,50,10);
-  a = a + 14;
-    if (a>2500) { 
-      a = 0; 
+  rect(trainx,535,50,10);
+  text(trainx, trainx, 575);
+  trainx = trainx + 14;
+    if (trainx>6000) { 
+      trainx = 0; 
     }
 }
