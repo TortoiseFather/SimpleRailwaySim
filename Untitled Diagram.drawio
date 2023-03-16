@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T13:32:32.692Z" agent="5.0 (Windows)" etag="4pdFUn0vXEn708geNqlj" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T23:56:32.268Z" agent="5.0 (Windows)" etag="wJIG-oADJTiQfYFuaeUb" version="21.0.6" type="github">
   <diagram name="Page-1" id="YizXqlMxTFFmfGiaMgVp">
-    <mxGraphModel dx="2954" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-33" value="Demonstrating assured safety" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wzwuGxx-aYTTG0eEZtZC-36" value="Readability" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wzwuGxx-aYTTG0eEZtZC-36" value="Clarity" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="595" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-38" value="Accountability" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -137,8 +137,8 @@
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-42" value="Key hypothesis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367" y="680" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzwuGxx-aYTTG0eEZtZC-44" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Statistical approaches of safety, while the most common form of&amp;nbsp; measurement, are fundamentally flawed. Deaths/Year or Deaths/Mile are pure anomaly focused approaches and are not testable within a live environment, an alternative must be suggested.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;By taking a predictive approach rather than a reactive one we can detect anomalous behavior that can lead to accidents and will ultimately provide a better metric for safety.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="335" y="710" width="190" height="190" as="geometry" />
+        <mxCell id="wzwuGxx-aYTTG0eEZtZC-44" value="&lt;p style=&quot;margin-bottom: 0cm; line-height: normal;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Statistical approaches of safety, while the most common form of measurement, are inadequate for the purposes of autonomy. Deaths/Year or Deaths/Mile are pure anomaly focused approaches and are not testable within a live environment, an alternative must be &lt;font style=&quot;font-size: 12px;&quot;&gt;suggested.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: normal;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot;&gt;By taking a predictive approach rather than a reactive one we can detect anomalous behaviour that can lead to accidents and will ultimately provide a better metric for safety.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="710" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Computer vision&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="90" width="120" height="30" as="geometry" />
