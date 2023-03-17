@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T23:56:32.268Z" agent="5.0 (Windows)" etag="wJIG-oADJTiQfYFuaeUb" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T10:46:45.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="6CcbzHrVYPfxrkmWcZmu" version="21.0.6" type="github">
   <diagram name="Page-1" id="YizXqlMxTFFmfGiaMgVp">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1871" dy="2411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="wzwuGxx-aYTTG0eEZtZC-4" target="wzwuGxx-aYTTG0eEZtZC-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzwuGxx-aYTTG0eEZtZC-4" value="Simulate Accidents" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wzwuGxx-aYTTG0eEZtZC-4" value="Erraticism Detection" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wzwuGxx-aYTTG0eEZtZC-6" target="wzwuGxx-aYTTG0eEZtZC-12" edge="1">
@@ -128,10 +128,10 @@
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-36" value="Clarity" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="595" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzwuGxx-aYTTG0eEZtZC-38" value="Accountability" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wzwuGxx-aYTTG0eEZtZC-38" value="Mitigation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="475" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzwuGxx-aYTTG0eEZtZC-40" value="Mitigation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wzwuGxx-aYTTG0eEZtZC-40" value="Accountability" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wzwuGxx-aYTTG0eEZtZC-42" value="Key hypothesis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -163,6 +163,42 @@
         </mxCell>
         <mxCell id="EhIsMyNbKFghoJWGRpfX-7" value="Current systems typically limit their scope, limiting operation of GoA-4 to be tunnels without the need of computer vision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="720" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XZHoZLcCiwLTe7WHyc-X-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wzwuGxx-aYTTG0eEZtZC-38" target="wzwuGxx-aYTTG0eEZtZC-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="500" as="sourcePoint" />
+            <mxPoint x="630" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="450" />
+              <mxPoint x="665" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZHoZLcCiwLTe7WHyc-X-2" value="What is detected" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZHoZLcCiwLTe7WHyc-X-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZHoZLcCiwLTe7WHyc-X-2" target="wzwuGxx-aYTTG0eEZtZC-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="50" />
+              <mxPoint x="330" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZHoZLcCiwLTe7WHyc-X-5" value="What has been simulated" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XZHoZLcCiwLTe7WHyc-X-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZHoZLcCiwLTe7WHyc-X-5" target="wzwuGxx-aYTTG0eEZtZC-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="30" as="sourcePoint" />
+            <mxPoint x="449.5" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="635" y="30" />
+              <mxPoint x="510" y="30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
