@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T16:25:26.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nW5Cdz263v27advqVsqZ" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T16:30:21.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GzK_UebT5nklPkhPBCw7" version="21.3.6" type="github">
   <diagram name="Page-1" id="ywP7yZrH698e5ii8Rh-N">
-    <mxGraphModel dx="786" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,8 +313,8 @@
         <mxCell id="4lqznjxC2k54S-Ok6p2C-1" value="Critical Failure States" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-2" value="&lt;h1&gt;Disclaimer&lt;/h1&gt;&lt;p&gt;All statistics are pulled from European trains in the &quot;post privatization&quot; phase seen as 1995-&amp;gt;&lt;/p&gt;&lt;p&gt;Key injuries relate to all stakeholders, passengers and passersby whereas minor injuries relate only to passengers&lt;/p&gt;&lt;p&gt;Assuming ~200 passengers on board at a time.&lt;/p&gt;&lt;p&gt;Statistics/standards pulled from:&lt;/p&gt;&lt;p&gt;https://www.sciencedirect.com/science/article/pii/S0925753520303180?via%3Dihub&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5743430&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="630" width="650" height="210" as="geometry" />
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-2" value="&lt;h1&gt;Disclaimer&lt;/h1&gt;&lt;p&gt;All statistics are pulled from European trains in the &quot;post privatization&quot; phase seen as 1995-&amp;gt;&lt;/p&gt;&lt;p&gt;Key injuries relate to all stakeholders, passengers and passersby whereas minor injuries relate only to passengers&lt;/p&gt;&lt;p&gt;Assuming ~200 passengers on board at a time. Stated as the average by the ORR&lt;/p&gt;&lt;p&gt;All analysis done pre-costs&lt;/p&gt;&lt;p&gt;Statistics/standards pulled from:&lt;/p&gt;&lt;p&gt;https://www.sciencedirect.com/science/article/pii/S0925753520303180?via%3Dihub&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5743430&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://dataportal.orr.gov.uk/statistics/usage/passenger-rail-usage/&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="570" width="650" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4lqznjxC2k54S-Ok6p2C-3" value="Derailment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="920" width="60" height="30" as="geometry" />
@@ -741,6 +741,9 @@
         </mxCell>
         <mxCell id="4lqznjxC2k54S-Ok6p2C-109" value="Low Track Quality" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1270" width="97.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-110" value="(Assume worst case)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1900.5" y="1170" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
