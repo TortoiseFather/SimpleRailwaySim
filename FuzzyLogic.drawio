@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T12:52:49.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="o2MZb7LY-5M6D50gggYi" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T18:43:42.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="tsW3wrhKKEKSd9Pixf_Y" version="21.4.0" type="github">
   <diagram name="Page-1" id="ywP7yZrH698e5ii8Rh-N">
-    <mxGraphModel dx="1187" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2508" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,467 +310,452 @@
             <mxPoint x="500" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-1" value="Critical Failure States" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-1" value="Critical Failure States" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-2" value="&lt;h1&gt;Disclaimer / Citations&lt;/h1&gt;&lt;p&gt;All statistics are pulled from European trains in the &quot;post privatization&quot; phase seen as 1995-&amp;gt;&lt;/p&gt;&lt;p&gt;Key injuries relate to all stakeholders, passengers and passersby whereas minor injuries relate only to passengers&lt;/p&gt;&lt;p&gt;Assuming ~200 passengers on board at a time. Stated as the average by the ORR&lt;/p&gt;&lt;p&gt;All analysis done pre-costs&lt;/p&gt;&lt;p&gt;Statistics/standards pulled from:&lt;/p&gt;&lt;p&gt;https://www.sciencedirect.com/science/article/pii/S0925753520303180?via%3Dihub&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://www.sciencedirect.com/science/article/pii/S0001457502000246 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5743430 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://dataportal.orr.gov.uk/statistics/usage/passenger-rail-usage/ ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://www.sciencedirect.com/science/article/pii/S0001457511002806 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://www.sceiencedirect.com/science/article/pii/S0739885912002077&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-2" value="&lt;h1&gt;Disclaimer / Citations&lt;/h1&gt;&lt;p&gt;All statistics are pulled from European trains in the &quot;post privatization&quot; phase seen as 1995-&amp;gt;&lt;/p&gt;&lt;p&gt;Key injuries relate to all stakeholders, passengers and passersby whereas minor injuries relate only to passengers&lt;/p&gt;&lt;p&gt;Assuming ~200 passengers on board at a time. Stated as the average by the ORR&lt;/p&gt;&lt;p&gt;All analysis done pre-costs&lt;/p&gt;&lt;p&gt;Statistics/standards pulled from:&lt;/p&gt;&lt;p&gt;https://www.sciencedirect.com/science/article/pii/S0925753520303180?via%3Dihub&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://www.sciencedirect.com/science/article/pii/S0001457502000246 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5743430 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://dataportal.orr.gov.uk/statistics/usage/passenger-rail-usage/ ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://www.sciencedirect.com/science/article/pii/S0001457511002806 ||&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;https://www.sceiencedirect.com/science/article/pii/S0739885912002077&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="570" width="985" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-3" value="Derailment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-3" value="Derailment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-4" value="With 11 incidents and an average of .63 deaths/derailment and 17.3 injuries/derailment as well as the obvious property, environment and rail damage, derailment is to be considered the largest failstate with a failure rate of 2000%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-4" value="With 11 incidents and an average of .63 deaths/derailment and 17.3 injuries/derailment as well as the obvious property, environment and rail damage, derailment is to be considered the largest failstate with a failure rate of 2000%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="970" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-5" value="Death" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-5" value="Death" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-6" value="The industry standard is to consider a death the baseline for a critical failure and to modify all other failures around the statistic, giving a death a failure rate of 100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-6" value="The industry standard is to consider a death the baseline for a critical failure and to modify all other failures around the statistic, giving a death a failure rate of 100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="970" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-7" value="Loss of Limb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-7" value="Loss of Limb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="925" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-8" value="Major Injury" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-8" value="Major Injury" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="930" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-9" value="Minor Injury" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-9" value="Minor Injury" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="930" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-10" value="A major injury is classified as one resulting in either hospitalization or minor permanent damage to the individual, concussions, fractures, injuries leading to ~1 month off work, failure rate of 5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-10" value="A major injury is classified as one resulting in either hospitalization or minor permanent damage to the individual, concussions, fractures, injuries leading to ~1 month off work, failure rate of 5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="970" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-11" value="A serious injury is categorized as a &quot;loss of limb&quot; however it involves any serious permanent damage to the individual, permanent loss of sight, a fracture or break of a major bone or a loss of limb, failure rate, 10%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-11" value="A serious injury is categorized as a &quot;loss of limb&quot; however it involves any serious permanent damage to the individual, permanent loss of sight, a fracture or break of a major bone or a loss of limb, failure rate, 10%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="960" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-12" value="Explanation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-12" value="Explanation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-13" value="Justification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-13" value="Justification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-14" value="Discomfort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-14" value="Discomfort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1080" y="930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-15" value="Minor injuries, defined as a disruption which may cause pain or general discomfort to the passenger is the most likely form of injury to be considered a failure state, minor whiplash, failure state 0.5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-15" value="Minor injuries, defined as a disruption which may cause pain or general discomfort to the passenger is the most likely form of injury to be considered a failure state, minor whiplash, failure state 0.5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="970" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-16" value="An almost non-failure which leads to what would not be a news story but instead a negative passenger experience, including things such as causing delays in service, failure rate of 0.002%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-16" value="An almost non-failure which leads to what would not be a news story but instead a negative passenger experience, including things such as causing delays in service, failure rate of 0.002%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="960" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-17" value="A derailment involves an average of less than 1 death, however, for safety metrics, a conservative approach is typical, so it should be assumed 1, injuries showcase 17.3 average, however that is either 0-1 injuries or 70+ which skews the statistics somewhat, as this is a failure case scenario, it once again should assume high serious injuries, the injuries within statistics are only serious injuries and non-serious are not accounted for, this alongside the capital loss regarding a broken rolling stock and environmental damage. The number is highly skewed however this again is keeping in the idea of conservatism within estimates." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-17" value="A derailment involves an average of less than 1 death, however, for safety metrics, a conservative approach is typical, so it should be assumed 1, injuries showcase 17.3 average, however that is either 0-1 injuries or 70+ which skews the statistics somewhat, as this is a failure case scenario, it once again should assume high serious injuries, the injuries within statistics are only serious injuries and non-serious are not accounted for, this alongside the capital loss regarding a broken rolling stock and environmental damage. The number is highly skewed however this again is keeping in the idea of conservatism within estimates." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="175" y="1140" width="190" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-18" value="As mentioned previously, deaths are a baseline, deaths are the highest single incident and in isolation have a whole failure rate. An incident which causes even an isolated death will be considered a complete failure (100%) Incidents with isolated deaths are rare and will often times have several serious or major injuries at the same time." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-18" value="As mentioned previously, deaths are a baseline, deaths are the highest single incident and in isolation have a whole failure rate. An incident which causes even an isolated death will be considered a complete failure (100%) Incidents with isolated deaths are rare and will often times have several serious or major injuries at the same time." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="1140" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-19" value="Serious injuries are classified as 1/10th of a death or 10% of a failure rate, this is due to the intensity of the single incident rate, if an incident causes the maximum of a loss of limb, it is still a serious incident and must be deeply considered regarding failure corrections, an incident with a serious injury is likely to have multiple injuries involved and will likely have a 50-150% failure rate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-19" value="Serious injuries are classified as 1/10th of a death or 10% of a failure rate, this is due to the intensity of the single incident rate, if an incident causes the maximum of a loss of limb, it is still a serious incident and must be deeply considered regarding failure corrections, an incident with a serious injury is likely to have multiple injuries involved and will likely have a 50-150% failure rate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="1140" width="140" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-20" value="With an average train capacity of ~200, an incident causing ~10% serious injuries is considered a critical failure, meaning an incident with 20 serious injuries, giving each serious injuries a failure rate of ~5%. An incident which causes a single Major injury and several Minor injuries is again, a case to change future safety considerations but not to consider the scenario a full failure." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-20" value="With an average train capacity of ~200, an incident causing ~10% serious injuries is considered a critical failure, meaning an incident with 20 serious injuries, giving each serious injuries a failure rate of ~5%. An incident which causes a single Major injury and several Minor injuries is again, a case to change future safety considerations but not to consider the scenario a full failure." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="1140" width="140" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-21" value="Discomfort as a safety failure state does not mean a failure over a single railway journey but rather over all journeys within a set amount of time. 369m people use the train on a given quarter, with the largest amount within a single line being 62m, meaning 5m/week, if 1% of passengers on a given week (50,000) experience discomfort explained above, this would be considered a critical failure, so any one discomfort has a failure rate of 0.002%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-21" value="Discomfort as a safety failure state does not mean a failure over a single railway journey but rather over all journeys within a set amount of time. 369m people use the train on a given quarter, with the largest amount within a single line being 62m, meaning 5m/week, if 1% of passengers on a given week (50,000) experience discomfort explained above, this would be considered a critical failure, so any one discomfort has a failure rate of 0.002%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1140" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-22" value="It is difficult to say with much ethical confidence that 50,000 minor inconveniences is the same as a death, however in relation to a safety cause, 50,000 incidents is indicative of some underlying safety issue which would in turn cause potential deaths in the future, the rate of incident is so high to account for this fact." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-22" value="It is difficult to say with much ethical confidence that 50,000 minor inconveniences is the same as a death, however in relation to a safety cause, 50,000 incidents is indicative of some underlying safety issue which would in turn cause potential deaths in the future, the rate of incident is so high to account for this fact." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1500" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-23" value="A key incident to be explored within the Hazard Resolution is the consequence response of an emergency break, it is likely that an emergency break will cause several Minor Injuries, so to consider Minor Injuries as a failstate, it must be stated that an emergency break is only to be initiated in the event of avoiding a death, leading to an initial position of -100%, provided that the death is avoided. The only scenario in which minor injuries caused by an emergency break outweighs that of not emergency breaking would be if all passengers and staff were injured, an incident failure rate of 0.5%&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-23" value="A key incident to be explored within the Hazard Resolution is the consequence response of an emergency break, it is likely that an emergency break will cause several Minor Injuries, so to consider Minor Injuries as a failstate, it must be stated that an emergency break is only to be initiated in the event of avoiding a death, leading to an initial position of -100%, provided that the death is avoided. The only scenario in which minor injuries caused by an emergency break outweighs that of not emergency breaking would be if all passengers and staff were injured, an incident failure rate of 0.5%&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="1140" width="160" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="1720" as="sourcePoint" />
             <mxPoint x="170" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="1720" as="sourcePoint" />
             <mxPoint x="370" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-26" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1720" as="sourcePoint" />
             <mxPoint x="550" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="1720" as="sourcePoint" />
             <mxPoint x="710" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="1720" as="sourcePoint" />
             <mxPoint x="860" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="1720" as="sourcePoint" />
             <mxPoint x="1030" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="910" as="sourcePoint" />
             <mxPoint x="1210" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="958" as="sourcePoint" />
             <mxPoint x="1210" y="958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1110" as="sourcePoint" />
             <mxPoint x="1210" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-33" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1480" as="sourcePoint" />
             <mxPoint x="1210" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="1720" as="sourcePoint" />
             <mxPoint x="1210" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-38" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1720" as="sourcePoint" />
             <mxPoint x="70" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1720" as="sourcePoint" />
             <mxPoint x="1210" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-40" value="Critique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-40" value="Critique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="1500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-41" value="With such a small failure rate, minor incidents do not contribute to larger incident scores, it is unlikely that any number of minor injuries would indeed cause an otherwise successful scenario to become a failure, depending on the boundaries for success." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-41" value="With such a small failure rate, minor incidents do not contribute to larger incident scores, it is unlikely that any number of minor injuries would indeed cause an otherwise successful scenario to become a failure, depending on the boundaries for success." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="1501" width="140" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-42" value="The rate of failure being 100% is chosen quite arbitrarily, the scenario in which an individual dies with no supporting cause or incident is unheard of and causes the safety case at large to be too analytical, The overweighting to death also will cause any ML approach to be too weighted towards these potential unseen scenarios." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-42" value="The rate of failure being 100% is chosen quite arbitrarily, the scenario in which an individual dies with no supporting cause or incident is unheard of and causes the safety case at large to be too analytical, The overweighting to death also will cause any ML approach to be too weighted towards these potential unseen scenarios." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="1490" width="140" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-43" value="It is difficult to place monetary value on both a life and the commercial impact of a death/derailment, making the 2000% failure rate quite arbitrary and overall should not be used within the training of any ML applications due to the outright data skew it would cause. However this is still an important metric for the justification of the HRT." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-43" value="It is difficult to place monetary value on both a life and the commercial impact of a death/derailment, making the 2000% failure rate quite arbitrary and overall should not be used within the training of any ML applications due to the outright data skew it would cause. However this is still an important metric for the justification of the HRT." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="1490" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-44" value="Failure Scenario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-44" value="Failure Scenario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="915" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-45" value="Derailment&lt;br&gt;(∞)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-45" value="Derailment&lt;br&gt;(∞)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1100" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-46" value="Death&lt;br&gt;(1*100)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-46" value="Death&lt;br&gt;(1*100)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1512.5" y="1100" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-47" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-47" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1520" y="990" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-48" value="Several Severe Injuries&lt;br&gt;(20*5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-48" value="Several Severe Injuries&lt;br&gt;(20*5)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1730" y="1100" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-46">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="1070" as="sourcePoint" />
             <mxPoint x="1550" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-50" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1640" y="1080" as="sourcePoint" />
             <mxPoint x="1360" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4lqznjxC2k54S-Ok6p2C-48">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4lqznjxC2k54S-Ok6p2C-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1768" y="1080" as="sourcePoint" />
             <mxPoint x="1580" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.567;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-45">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.567;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1480" y="1100" as="sourcePoint" />
             <mxPoint x="1360" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-53" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-44" target="4lqznjxC2k54S-Ok6p2C-47">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-53" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-44" target="4lqznjxC2k54S-Ok6p2C-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="1080" as="sourcePoint" />
             <mxPoint x="1640" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-55" value="Late Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-55" value="Late Detection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1737.5" y="1430" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-56" value="Categorization Failure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-56" value="Categorization Failure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1470" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-57" value="Failure to Binary Risk Classify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-57" value="Failure to Binary Risk Classify" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1235" y="1370" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-58" value="Collision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-58" value="Collision" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1512.5" y="1200" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-59" value="Harsh Break" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-59" value="Harsh Break" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="1270" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-60" value="Collision with Danger Object" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-60" value="Collision with Danger Object" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1270" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-63" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-63" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1317.5" y="1150" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4lqznjxC2k54S-Ok6p2C-63">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4lqznjxC2k54S-Ok6p2C-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1348" y="1240" as="sourcePoint" />
             <mxPoint x="1510" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-65" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="1240" as="sourcePoint" />
             <mxPoint x="1400" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1400" y="1240" as="sourcePoint" />
             <mxPoint x="1400.325" y="1270.36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-67" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-60">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-67" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1460" y="1240" as="sourcePoint" />
             <mxPoint x="1310" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-69" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-69" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1737.5" y="1150" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-70" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1840" y="1240" as="sourcePoint" />
             <mxPoint x="1720" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.4;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-59">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.4;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1720" y="1260" as="sourcePoint" />
             <mxPoint x="1720" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-72" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1840" y="1240" as="sourcePoint" />
             <mxPoint x="1840" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-69">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1620" y="1220" as="sourcePoint" />
             <mxPoint x="1768" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-75" value="Failure to warn passengers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-75" value="Failure to warn passengers" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1790" y="1270" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-76" value="Lack of distance to anomaly" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-76" value="Lack of distance to anomaly" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1635" y="1425" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-77" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-77" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1697.5" y="1320" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1730" y="1410" as="sourcePoint" />
             <mxPoint x="1730.4999999999998" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1680" y="1410" as="sourcePoint" />
             <mxPoint x="1780" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.561;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-55">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.561;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1720" y="1450" as="sourcePoint" />
             <mxPoint x="1780" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.471;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-76">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.471;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1680" y="1450" as="sourcePoint" />
             <mxPoint x="1680" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-82" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-82" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1745" y="1480" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-83" value="Unfavorable Geography" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-83" value="Unfavorable Geography" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1790" y="1570" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-84" value="Low Camera Quality" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-84" value="Low Camera Quality" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1570" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-85" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1720" y="1560" as="sourcePoint" />
             <mxPoint x="1840" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.223;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-82">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.223;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="1540" as="sourcePoint" />
             <mxPoint x="1780" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-87" value="" style="endArrow=none;html=1;rounded=0;exitX=0.42;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-84">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-87" value="" style="endArrow=none;html=1;rounded=0;exitX=0.42;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1750" y="1610" as="sourcePoint" />
             <mxPoint x="1720" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-83">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1790" y="1610" as="sourcePoint" />
             <mxPoint x="1840" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-89" value="Fault Tree Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-89" value="Fault Tree Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1245" y="800" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-91" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="71" y="851" as="sourcePoint" />
             <mxPoint x="1211" y="851" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-93" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Top level hazard analysis&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-93" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Top level hazard analysis&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="860" width="700" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-94" value="Non-understanding of scenario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-94" value="Non-understanding of scenario" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1913" y="1100" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4lqznjxC2k54S-Ok6p2C-94">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4lqznjxC2k54S-Ok6p2C-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1960" y="1080" as="sourcePoint" />
             <mxPoint x="1590" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-96" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1630" y="1080" as="sourcePoint" />
             <mxPoint x="1960" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-97" value="Lack of Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-97" value="Lack of Data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1510" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-98" value="Unclear Physical Values" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-98" value="Unclear Physical Values" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1282.5" y="1510" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-99" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-99" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1242.5" y="1420" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-100" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="1500" as="sourcePoint" />
             <mxPoint x="1310" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="1510" as="sourcePoint" />
             <mxPoint x="1310" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1242.5" y="1510" as="sourcePoint" />
             <mxPoint x="1242.5" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.222;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4lqznjxC2k54S-Ok6p2C-99">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.222;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4lqznjxC2k54S-Ok6p2C-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1275" y="1501" as="sourcePoint" />
             <mxPoint x="1275" y="1491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-104" value="Miscalculation of breaking distance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-104" value="Miscalculation of breaking distance" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1317.5" y="1360" width="97.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-105" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="1350" as="sourcePoint" />
             <mxPoint x="1340" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0.222;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0.222;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="1350" as="sourcePoint" />
             <mxPoint x="1300" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-107" value="" style="endArrow=none;html=1;rounded=0;exitX=0.355;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-57">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-107" value="" style="endArrow=none;html=1;rounded=0;exitX=0.355;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4lqznjxC2k54S-Ok6p2C-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="1460" as="sourcePoint" />
             <mxPoint x="1262" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0.236;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4lqznjxC2k54S-Ok6p2C-104">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0.236;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4lqznjxC2k54S-Ok6p2C-104" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="1350" as="sourcePoint" />
             <mxPoint x="1272" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-109" value="Low Track Quality" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-109" value="Low Track Quality" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1270" width="97.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-110" value="(Assume worst case)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lqznjxC2k54S-Ok6p2C-110" value="(Assume worst case)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1900.5" y="1170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-112">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1208" y="377.5" width="284" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="958" y="407.5" width="400" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-117">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="963" y="417.5" width="235" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="968" y="427.5" width="80" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-119">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="syMj157BBdmwMxHzv_Rg-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -781,38 +766,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-111" target="4lqznjxC2k54S-Ok6p2C-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-6" value="Technical Assurance Points&lt;br&gt;(physical)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2353" y="755" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-111" value="Death&lt;br&gt;(1*100)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="1100" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-7" value="Time of day" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2210" y="965" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-112" value="Suicide (NA)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="1240" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-8" value="Visibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="865" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-115" value="Level Crossing&lt;br&gt;(NA)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-9" value="Viewing Distance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2298" y="965" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-117" value="Railway Tresspasser Deaths" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="1245" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-10" value="Weather" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="965" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-119" target="4lqznjxC2k54S-Ok6p2C-128">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="syMj157BBdmwMxHzv_Rg-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -823,14 +790,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-119" value="Passenger Death" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="1245" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-12" value="Camera Quality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2368" y="865" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-122" value="Derailment Death (NA)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="syMj157BBdmwMxHzv_Rg-10" target="syMj157BBdmwMxHzv_Rg-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -841,9 +802,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-128" target="4lqznjxC2k54S-Ok6p2C-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="syMj157BBdmwMxHzv_Rg-8" target="syMj157BBdmwMxHzv_Rg-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2510" y="1005" as="sourcePoint" />
@@ -853,24 +811,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-128" value="Crash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="1420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="syMj157BBdmwMxHzv_Rg-6" target="syMj157BBdmwMxHzv_Rg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2220" y="1125" as="sourcePoint" />
             <mxPoint x="2270" y="1075" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2413" y="825" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-130" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.866;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-128" target="4lqznjxC2k54S-Ok6p2C-122">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2880" y="1570" as="sourcePoint" />
-            <mxPoint x="2930" y="1520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3100" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -883,29 +829,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-131" value="If derailment then N/A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3110" y="1350" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-17" value="Railway Characteristics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2500" y="865" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lqznjxC2k54S-Ok6p2C-132" target="4lqznjxC2k54S-Ok6p2C-134">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-18" value="Stopping Distance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2190" y="1150" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4lqznjxC2k54S-Ok6p2C-132" value="Natural processes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="1555" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="syMj157BBdmwMxHzv_Rg-19" value="Reaction Time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2434" y="965" width="100" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="https://uic.org/events/IMG/pdf/research_on_the_operation_safety_of_high-speed_train_under_strong_wind_based_on_simulation_model.pdf" link="https://uic.org/events/IMG/pdf/research_on_the_operation_safety_of_high-speed_train_under_strong_wind_based_on_simulation_model.pdf" id="4lqznjxC2k54S-Ok6p2C-134">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="3200" y="1680" width="80" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="syMj157BBdmwMxHzv_Rg-20" value="Technical Assurance Points &lt;br&gt;(Digital)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2775" y="755" width="130" height="60" as="geometry" />
         </mxCell>
